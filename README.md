@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+# Screenshots
+<img src='screenshots/android-1.png' width='32%'/> <img src='screenshots/android-2.png' width='32%'/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
